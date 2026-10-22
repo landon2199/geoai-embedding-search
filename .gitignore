@@ -1,0 +1,13 @@
+# downloaded rasters, chips and embeddings (rebuilt by run.py)
+data/
+*.tif
+*.tiff
+*.npy
+*.npz
+run_log.txt
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
