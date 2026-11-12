@@ -94,3 +94,7 @@ run.py                   end-to-end run, figures and results/metrics.json
 - **This code**: MIT, see [LICENSE](LICENSE).
 
 Large rasters, chips and embeddings stay in the git-ignored `data/` folder. Only figures and `results/metrics.json` are committed.
+
+## AI assistance
+
+Built with an AI coding assistant (Claude Code, by Anthropic). Commits made with it carry its `Co-Authored-By` line.
